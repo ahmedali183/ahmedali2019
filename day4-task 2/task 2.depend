@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1557836382 source:e:\embedded course\c programming\day 4\tasks\task 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"robocomponents.h"
+	"proto.h"
+
+1557836380 e:\embedded course\c programming\day 4\tasks\task 2\robocomponents.h
+
+1557836330 e:\embedded course\c programming\day 4\tasks\task 2\proto.h
+
+1557836582 source:e:\embedded course\c programming\day 4\tasks\task 2\roboinit.c
+	<stdio.h>
+	<stdlib.h>
+	"robocomponents.h"
+	"proto.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557839166 source:e:\embedded course\c programming\day 4\tasks\task 4\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558033096 source:e:\embedded course\c programming\course\day 4\tasks\task 3\main.c
+	"definitions.h"
+
+1558033096 e:\embedded course\c programming\course\day 4\tasks\task 3\definitions.h
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1558036825 e:\embedded course\c programming\course\day 4\tasks\task 3\func.h
+
+1558034336 source:e:\embedded course\c programming\course\day 4\tasks\task 3\functions.c
+	"definitions.h"
+
